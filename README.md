@@ -1,4 +1,4 @@
-# github-cli \n
+# github-cli </br>
 Interactive cli for fetching users from Github API and list it in Postgress Db </br>
 
 - Place the database connection info in src/config.ts </br>
